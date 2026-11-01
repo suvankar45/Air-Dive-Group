@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/Air-Dive-Group/', // Added to fix the blank white screen on GitHub Pages
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
