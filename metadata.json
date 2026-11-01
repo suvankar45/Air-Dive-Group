@@ -1,0 +1,6 @@
+{
+  "name": "Air Dive Group - US Staffing & Workforce Solutions",
+  "description": "Enterprise-grade US staffing, recruitment, executive search, and workforce solutions platform connecting premier American employers with qualified talent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
